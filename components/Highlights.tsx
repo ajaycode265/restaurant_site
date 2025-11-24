@@ -66,7 +66,7 @@ export default function Highlights() {
           </h2>
           <div className="w-24 h-1 bg-brand-orange mx-auto mb-6"></div>
           <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-            We're committed to delivering an exceptional dining experience
+            We&apos;re committed to delivering an exceptional dining experience
           </p>
         </motion.div>
 

@@ -56,7 +56,7 @@ export default function ContactInfo() {
           </h2>
           <div className="w-24 h-1 bg-brand-orange mx-auto mb-6"></div>
           <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-            We're here to serve you with delicious food and warm hospitality
+            We&apos;re here to serve you with delicious food and warm hospitality
           </p>
         </motion.div>
 

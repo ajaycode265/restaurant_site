@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { Star } from 'lucide-react'
+import Image from 'next/image'
 
 /**
  * Menu Preview Section
@@ -102,10 +103,11 @@ export default function MenuPreview() {
             >
                {/* Image Container */}
                <div className="relative h-48 sm:h-56 overflow-hidden">
-                 <img
+                 <Image
                    src={item.image}
                    alt={item.name}
-                   className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
+                   fill
+                   className="object-cover transform group-hover:scale-110 transition-transform duration-500"
                    loading="lazy"
                  />
                  {/* Rating Badge */}
