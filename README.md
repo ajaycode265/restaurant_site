@@ -43,9 +43,6 @@ A modern, high-performance, and visually stunning landing page for Kapruwan Hote
    npm run dev
    ```
 
-3. **Open in Browser**
-   Navigate to [http://localhost:3000](http://localhost:3000)
-
 ### Build for Production
 
 ```bash
@@ -140,17 +137,10 @@ The website is fully responsive and optimized for:
 - Code splitting with Next.js App Router
 - Fast page loads and interactions
 
-## 📞 Support
-
-For questions or support, please contact:
-- Email: info@kapruwanhotel.com
-- Phone: +1 (555) 123-4567
 
 ## 📄 License
 
 This project is proprietary and confidential.
 
 ---
-
-Built with ❤️ for Kapruwan Hotel
 
